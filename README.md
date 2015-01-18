@@ -1,11 +1,15 @@
 A library for making choose-your-own-adventure games for the web. Just write the the states and run. The library will automatically build a working website for you!
 
 Here's an example game.
+
 <img src="http://i.imgur.com/8Wosrn3.png"/>
 Lets go inside.
+
 <img src="http://i.imgur.com/PPs1Adf.png"/>
 Charge on!
+
 <img src="http://i.imgur.com/arcJgxq.png"/>
+
 ...and we died.
 
 Here are what the death definitions look like.
