@@ -3,9 +3,11 @@ A library for making choose-your-own-adventure games for the web. Just write the
 Here's an example game.
 
 <img src="http://i.imgur.com/8Wosrn3.png"/>
+
 Lets go inside.
 
 <img src="http://i.imgur.com/PPs1Adf.png"/>
+
 Charge on!
 
 <img src="http://i.imgur.com/arcJgxq.png"/>
