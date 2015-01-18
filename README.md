@@ -1,5 +1,7 @@
 A library for making choose-your-own-adventure games for the web. Just write the the states and run. The library will automatically build a working website for you!
 
+The server is stateless so saving a game can be done by saving the link and the back and forward buttons always work.
+
 Here's an example game.
 
 <img src="http://i.imgur.com/8Wosrn3.png"/>
@@ -48,4 +50,9 @@ Here are what state definitions look like.
                  ...)
   ...)
 ```
+
+Full example code is available in test1.rkt
+
+Things left to do: add formatting
+
 
